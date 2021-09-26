@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Duarte Elvas</h1>
-<h3 align="center">A Software Engineer Student from Portugal</h3>
+<h3 align="center">A Software Engineer Student from Portugal 🇵🇹</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdrrv&label=Profile%20views&color=0e75b6&style=flat" alt="sdrrv" /> </p>
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">My site: </h3>
 <p align="left">
-<a href="/https://web.tecnico.ulisboa.pt/duartecelvas"><img align="center" src="https://web.tecnico.ulisboa.pt/duartecelvas/wp-content/uploads/2021/08/icon.png"  height="40" width="40" /></a>
+<a href="https://web.tecnico.ulisboa.pt/duartecelvas"> <img align="center" src="https://web.tecnico.ulisboa.pt/duartecelvas/wp-content/uploads/2021/08/icon.png"  height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
