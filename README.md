@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdrrv" alt="sdrrv" /></a> </p>
 
-- 🔭 I’m currently working on [A Graph Algorithm Visualization tool](https://github.com/sdrrv/Graph-Algorithms-Visualization)
+- 🔭 I’m currently working on [A Graph Algorithm Visualization tool](https://sdrrv.github.io/Graph-Algorithms-Visualization)
 
 - 📫 How to reach me **duartecelvas@gmail.com**
 
 <h3 align="left">My site: </h3>
 <p align="left">
-<a href="/https://web.tecnico.ulisboa.pt/duartecelvas" target="blank"><img align="center" src="https://web.tecnico.ulisboa.pt/duartecelvas/wp-content/uploads/2021/08/icon.png" alt="https://web.tecnico.ulisboa.pt/duartecelvas" height="30" width="40" /></a>
+<a href="/https://web.tecnico.ulisboa.pt/duartecelvas"><img align="center" src="https://web.tecnico.ulisboa.pt/duartecelvas/wp-content/uploads/2021/08/icon.png"  height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
