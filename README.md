@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdrrv&label=Profile%20views&color=0e75b6&style=flat" alt="sdrrv" /> </p>
 
-- 🔭 I’m currently working on [A Graph Algorithm Visualization tool](https://sdrrv.github.io/Graph-Algorithms-Visualization) (Not Working yet)
-- 🔭 And on a [Sorting Algorithm Visualization tool](https://sdrrv.github.io/Sorting-Algorithms-Visualization-p5.js) (Early Version)
+### Currentlt Working on &rarr;
+
+- 🔭 [Password Generator](https://elvas.me/password-generator/)
+- 🔭 [Graph Algorithm Visualization tool](https://sdrrv.github.io/Graph-Algorithms-Visualization) (Not Working yet)
+- 🔭 [Sorting Algorithm Visualization tool](https://sdrrv.github.io/Sorting-Algorithms-Visualization-p5.js) (Early Version)
 
 - 📫 How to reach me **duartecelvas@gmail.com**
 
